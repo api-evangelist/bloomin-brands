@@ -1,7 +1,12 @@
 aid: bloomin-brands
-url: https://raw.githubusercontent.com/api-evangelist/bloomin-brands/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/bloomin-brands/refs/heads/main/apis.yml
 modified: '2026-03-23'
 apis: []
 common:
   - type: Website
     url: https://www.bloomin-brands.com
+description: >-
+  Bloomin' Brands is one of the largest casual dining restaurant companies in the
+  world, operating Outback Steakhouse, Carrabba's Italian Grill, Bonefish Grill, and
+  Fleming's Prime Steakhouse & Wine Bar.
