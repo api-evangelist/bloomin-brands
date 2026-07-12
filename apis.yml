@@ -29,6 +29,8 @@ tags:
   - Mobile Apps
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/bloomin-brands-domain-security.yml
   - type: Website
     url: https://www.bloominbrands.com
   - type: Company
