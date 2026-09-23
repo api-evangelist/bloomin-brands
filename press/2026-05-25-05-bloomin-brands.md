@@ -1,7 +1,9 @@
 ---
 title: Bloomin' Brands
 url: https://www.opentext.com/ca/customers/bloomin-brands
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Bloomin'' Brands" press release artificial intelligence'
 position: 5
 source: serpapi-google

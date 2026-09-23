@@ -1,7 +1,9 @@
 ---
 title: DecisionNext Announces New Partnership with Bloomin ...
 url: https://decisionnext.com/decisionnext-announces-new-partnership-with-bloomin-brands/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Bloomin'' Brands" press release artificial intelligence'
 position: 1
 source: serpapi-google

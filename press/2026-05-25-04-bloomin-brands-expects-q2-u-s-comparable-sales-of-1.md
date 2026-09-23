@@ -1,7 +1,9 @@
 ---
 title: Bloomin' Brands expects Q2 U.S. comparable sales of 1% ...
 url: https://seekingalpha.com/news/4587853-bloomin-brands-expects-q2-u-s-comparable-sales-of-1-percent-to-2-percent-while-targeting-to
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Bloomin'' Brands" press release artificial intelligence'
 position: 4
 source: serpapi-google

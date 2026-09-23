@@ -1,7 +1,9 @@
 ---
 title: 'Q1 Earnings Roundup: Bloomin'' Brands (NASDAQ:BLMN) ...'
 url: https://www.theglobeandmail.com/investing/markets/stocks/BLMN-Q/pressreleases/2059409/q1-earnings-roundup-bloomin-brands-nasdaqblmn-and-the-rest-of-the-sit-down-dining-segment/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Bloomin'' Brands" press release artificial intelligence'
 position: 3
 source: serpapi-google
